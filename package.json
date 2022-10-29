@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Making Blog with my own hands!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zih2o/Blog.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zih2o/Blog/issues"
+  },
+  "homepage": "https://github.com/zih2o/Blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
